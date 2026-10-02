@@ -2,7 +2,7 @@
 
 Gruppo:
 
-Componenti (nome, cognome e username GitHub di entrambi):
+Componenti (Tommaso Esposito, alessandro Fariello, tommasoesposito):
 
 URL del repository condiviso:
 
@@ -13,17 +13,11 @@ saper spiegare le prove svolte.
 
 ## Step 1 — Hello World: compilazione ed esecuzione
 
-Comando di compilazione:
+Comando di compilazione: gcc -std=c17 -Wall -Westra -Wpedantic hello.c -o hello 
 
-Comando di esecuzione e risultato osservato:
+Comando di esecuzione e risultato osservato: ./hello
 
 Che cosa ho capito su sorgente ed eseguibile:
-
-Output richiesto e comportamento del programma prima della modifica:
-
-Esito dopo la modifica e spiegazione della correzione:
-
-## Step 1 — Git
 
 Quali file ho incluso nel commit e perché:
 

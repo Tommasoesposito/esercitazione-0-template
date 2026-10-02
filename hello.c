@@ -2,6 +2,10 @@
 
 int main(void)
 {
+
+
+  printf("Hello, computational physics \n");  //ciao
+  
     /*
      * TODO: stampa esattamente:
      * Hello, computational physics!
