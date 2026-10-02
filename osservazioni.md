@@ -51,6 +51,8 @@ Contenuto di `eco.txt`, messaggi nel terminale e codici di uscita osservati:
 
 Come un controllo automatico può riconoscere un errore:
 
+frase di verifica
+
 ## Step 2 — Parametri e calcolo fisico
 
 Quando serve ricompilare e quando basta cambiare gli argomenti:
